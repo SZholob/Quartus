@@ -1,0 +1,16 @@
+|lab_8_4
+p1 <= inst111.DB_MAX_OUTPUT_PORT_TYPE
+p2 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+p3 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+p4 <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+R => RS_trig:inst.R
+S => RS_trig:inst.S
+
+
+|lab_8_4|RS_trig:inst
+Q <= inst.DB_MAX_OUTPUT_PORT_TYPE
+S => inst4.IN0
+R => inst.IN1
+Q_inv <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+
+

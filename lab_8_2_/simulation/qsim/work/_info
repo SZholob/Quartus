@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/KPI/Second_course/Second_semester/SA/LR/LR8/lab_8_2_/simulation/qsim
+vlab_8_2_
+Z1 !s110 1685280199
+!i10b 1
+!s100 3J2V>4:UiF>`Bj>_zAXJ]0
+Ibn2N>zi=fWBB0cl:dTIm`0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1685280198
+8lab_8_2_.vo
+Flab_8_2_.vo
+L0 32
+Z3 OV;L;10.4b;61
+r1
+!s85 0
+31
+Z4 !s108 1685280199.000000
+!s107 lab_8_2_.vo|
+!s90 -work|work|lab_8_2_.vo|
+!i113 1
+Z5 o-work work
+vlab_8_2__vlg_vec_tst
+R1
+!i10b 1
+!s100 obHFT@_@]g^2OnN@S6jT>0
+Ik`MdY^<9D=SC`cR7<D7zN3
+R2
+R0
+w1685280195
+8lab_8_2_.vwf.vt
+Flab_8_2_.vwf.vt
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 lab_8_2_.vwf.vt|
+!s90 -work|work|lab_8_2_.vwf.vt|
+!i113 1
+R5
